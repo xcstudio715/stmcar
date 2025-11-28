@@ -28,7 +28,7 @@ Copyright (c) 2024 xcstudio715。All rights reserved.
 基于 Arduino/STM32 的智能小车控制系统，包含多种模块支持寻迹、避障等功能。该项目实现了不同场景下的智能控制算法。car13以及car14为小地图使用的模块，carchuangyi为复杂地图使用。
 
 ## 项目讲解
-blog.xcstudio.top
+[blog.xcstudio.top](https://blog.xcstudio.top/index.php/2025/11/28/kaiyuan_ino/)
 
 ## 快速开始
 
@@ -163,3 +163,4 @@ git checkout -b feature/YourFeature
 ## 许可证
 
 本项目采用 BSD 2-Clause 许可证。详情请参见 [LICENSE](LICENSE) 文件。
+
